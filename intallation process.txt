@@ -1,0 +1,8 @@
+1. install server (Wamp or Xamp).
+2. copy miniproduct folder to htdocs if Xamp or www if Wamp.
+3. Type "http://127.0.0.1/phpmyadmin/" or "http://localhost" in any browser.
+3. localhost="root" password=""
+4. create database called "db_project"
+4. import db_project as tables into db_project
+4. type localhost/miniproject as url to get to the online shopping
+5. type localhost/miniproject/admin to manage administrator
